@@ -1,6 +1,8 @@
 # Terraform Basics with AWS
 
 🚀 Welcome to this introductory guide on using Terraform with AWS. In this README, we'll cover the essential commands: `terraform init`, `terraform plan`, and `terraform apply`.
+
+
 ![Alt text](Images/image-12.png)
 
 ## Table of Contents
