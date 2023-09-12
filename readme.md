@@ -67,3 +67,4 @@ Terraform will prompt for confirmation. Type yes to proceed. It will then provis
 ![Alt text](images/image7.png)
 ![Alt text](images/image8.png)
 ![Alt text](images/image9.png)
+
