@@ -2,7 +2,6 @@
 
 🚀 Welcome to this introductory guide on using Terraform with AWS. In this README, we'll cover the essential commands: `terraform init`, `terraform plan`, and `terraform apply`.
 
-![Terraform Logo](https://www.terraform.io/assets/images/logo-hashicorp-3f10732f.svg)
 
 ## Table of Contents
 
@@ -39,7 +38,7 @@ Before you begin, ensure that you have the following prerequisites installed and
 terraform init
 
 ```
-![Alt text](images/image-1.png)
+![Alt text](Images/image-1.png)
 
 # Step 2: Create Terraform Configuration
 ⚙️ Create a .tf file (e.g., main.tf) to define your infrastructure resources. Here's an example of creating an AWS EC2 instance:
@@ -52,8 +51,8 @@ terraform init
 terraform plan
 ```
 
-![Alt text](images/image2.png)
-![Alt text](images/image3.png)
+![Alt text](Images/image2.png)
+![Alt text](Images/image3.png)
 
 # Step 4: Apply Your Infrastructure
 🚧 To apply the changes defined in your Terraform configuration and create the AWS resources, execute:
