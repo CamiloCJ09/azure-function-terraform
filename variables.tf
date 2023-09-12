@@ -1,10 +1,9 @@
-variable name_function {
-  type        = string
-  description = "Name Function"
+variable "aws_region" {
+  type = string 
+  description = "The AWS region to create things in."
 }
 
-variable location {
-  type        = string
-  default     = "West Europe"
-  description = "Location"
+variable "name_function" {
+  type = string 
+  description = "The AWS profile to use."
 }

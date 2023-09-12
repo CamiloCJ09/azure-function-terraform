@@ -1,2 +1,2 @@
-name_function = "devopstestfunction"
-location = "East US"
+name_function = "my_Lambda_Function_Example"
+aws_region = "us-east-1"
