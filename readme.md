@@ -61,10 +61,10 @@ terraform plan
 terraform apply
 ```
 Terraform will prompt for confirmation. Type yes to proceed. It will then provision the resources as specified in your configuration.
-![Alt text](images/image4.png)
-![Alt text](images/image5.png)
-![Alt text](images/image6.png)
-![Alt text](images/image7.png)
-![Alt text](images/image8.png)
-![Alt text](images/image9.png)
+![Alt text](Images/image4.png)
+![Alt text](Images/image5.png)
+![Alt text](Images/image6.png)
+![Alt text](Images/image7.png)
+![Alt text](Images/image8.png)
+![Alt text](Images/image9.png)
 
